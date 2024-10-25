@@ -1,6 +1,12 @@
 ![Static Badge](https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91-white?style=for-the-badge&label=%E6%B7%B1%E5%9C%B3&labelColor=8A2BE2&color=000000)
 ![Static Badge](https://img.shields.io/badge/ubuding@163.com-white?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335)
 
+## 𝓜𝔂 𝓜𝓲𝓷𝓭𝓼𝓮𝓽
+
+  𝐿𝑖𝑓𝑒 𝑖𝑠 𝑎 𝑗𝑜𝑢𝑟𝑛𝑒𝑦 𝑤𝑖𝑡ℎ 𝑛𝑜 𝑤𝑎𝑦 𝑏𝑎𝑐𝑘. 𝐿𝑖𝑓𝑒 ℎ𝑎𝑠 𝑛𝑜 𝑚𝑒𝑎𝑛𝑖𝑛𝑔. 𝐿𝑖𝑣𝑖𝑛𝑔 𝑖𝑠 𝑡ℎ𝑒 𝑚𝑒𝑎𝑛𝑖𝑛𝑔.
+  
+  𝐵𝑒 𝑦𝑜𝑢𝑟𝑠𝑒𝑙𝑓. 𝐹𝑜𝑟𝑒𝑣𝑒𝑟 𝑦𝑜𝑢𝑛𝑔.
+  
 ## 𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔
 ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat-square&logoColor=white&logo=html5&color=E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS3-white?style=flat-square&logoColor=white&logo=css3&color=1f84bf)
