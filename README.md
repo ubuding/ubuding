@@ -41,7 +41,12 @@
 </p>
 
 <p>
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="React Native" src="https://img.shields.io/badge/-React Native-000000?style=flat-square&logo=react&logoColor=white" />
+<img alt="ElementPlus" src="https://img.shields.io/badge/Element%20Plus-409eff" />
+<img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+<img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+<img alt="Mantine" src="https://img.shields.io/badge/-Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" />
+<img alt="Headless UI" src="https://img.shields.io/badge/-Headless UI-66E3FF?style=flat-square&logo=headlessui&logoColor=white" />
+<img alt="Next UI" src="https://img.shields.io/badge/-Next UI-000000?style=flat-square&logo=nextui&logoColor=white" />
+<img alt="PRIMEREACT" src="https://img.shields.io/badge/-PRIMEREACT-03C4E8?style=flat-square&logo=primereact&logoColor=white" />
 </p>
 
