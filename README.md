@@ -34,8 +34,9 @@
 ![](https://img.shields.io/badge/Electron-white?style=flat-square&logoColor=white&logo=electron&color=black)
 ![](https://img.shields.io/badge/Tauri-white?style=flat-square&logoColor=white&logo=tauri&color=black)
 ![](https://img.shields.io/badge/sys%20shim-white?style=flat-square&logoColor=white&logo=opensourcehardware&color=black)
-![](https://img.shields.io/badge/single%20spa-white?style=flat-square&logoColor=white&logo=sellfy&color=black)
-![](https://img.shields.io/badge/qiankun-white?style=flat-square&logoColor=white&logo=quora&color=black)
+![](https://img.shields.io/badge/MicroApp-white?style=flat-square&logoColor=white&logo=monzo&color=8A2BE2)
+![](https://img.shields.io/badge/single%20spa-white?style=flat-square&logoColor=white&logo=sellfy&color=8A2BE2)
+![](https://img.shields.io/badge/qiankun-white?style=flat-square&logoColor=white&logo=quora&color=8A2BE2)
 
 ![](https://img.shields.io/badge/Apache%20ECharts-white?style=flat-square&logoColor=white&logo=apacheecharts&color=AA344D)
 ![](https://img.shields.io/badge/AntV%20L7-white?style=flat-square&logoColor=white&logo=vagrant&color=AA344D)
