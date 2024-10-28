@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91-white?style=for-the-badge&label=%E6%B7%B1%E5%9C%B3&labelColor=8A2BE2&color=000000)
-![](https://img.shields.io/badge/ubuding@163.com-white?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335)
+![](https://img.shields.io/badge/%E6%98%A5%E9%A3%8E%E8%8B%A5%E6%9C%89%E6%80%9C%E8%8A%B1%E6%84%8F%EF%BC%8C%E5%8F%AF%E5%90%A6%E8%AE%B8%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4%EF%BC%9F-white?style=for-the-badge&logoColor=white&logo=gmail&color=8A2BE2&label=ubuding@163.com&labelColor=EA4335)
 
-## 𝓜𝔂 𝓜𝓲𝓷𝓭𝓼𝓮𝓽
+## 𝓜𝔂 𝓜𝓲𝓷𝓭𝓼𝓮𝓽 
 
   𝐿𝑖𝑓𝑒 𝑖𝑠 𝑎 𝑗𝑜𝑢𝑟𝑛𝑒𝑦 𝑤𝑖𝑡ℎ 𝑛𝑜 𝑤𝑎𝑦 𝑏𝑎𝑐𝑘. 𝐿𝑖𝑓𝑒 ℎ𝑎𝑠 𝑛𝑜 𝑚𝑒𝑎𝑛𝑖𝑛𝑔. 𝐿𝑖𝑣𝑖𝑛𝑔 𝑖𝑠 𝑡ℎ𝑒 𝑚𝑒𝑎𝑛𝑖𝑛𝑔.
   
@@ -66,5 +66,5 @@
 ![](https://img.shields.io/badge/uView-white?style=flat-square&logoColor=white&logo=umbraco&color=black)
 ![](https://img.shields.io/badge/uni%20ui-white?style=flat-square&logoColor=white&logo=uikit&color=black)
 
-## ![](https://img.shields.io/badge/%E6%98%A5%E9%A3%8E%E8%8B%A5%E6%9C%89%E6%80%9C%E8%8A%B1%E6%84%8F%EF%BC%8C%E5%8F%AF%E5%90%A6%E8%AE%B8%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4%EF%BC%9F-white?style=for-the-badge&color=8A2BE2)
+
 
