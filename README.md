@@ -23,26 +23,25 @@
 ![](https://img.shields.io/badge/React-white?style=flat-square&logoColor=white&logo=react&color=028399)
 ![](https://img.shields.io/badge/NextJS-white?style=flat-square&logoColor=white&logo=nextdotjs&color=black)
 ![](https://img.shields.io/badge/Vue-white?style=flat-square&logoColor=white&logo=vuedotjs&color=00b77e)
-![](https://img.shields.io/badge/NuxtJS-white?style=flat-square&logoColor=white&logo=nuxtdotjs&color=00b77e)
-![](https://img.shields.io/badge/Angular-white?style=flat-square&logoColor=white&logo=angular&color=DD0031)
-![](https://img.shields.io/badge/WeChat-white?style=flat-square&logoColor=white&logo=wechat&color=2d9b3a)
-![](https://img.shields.io/badge/Go-white?style=flat-square&logoColor=white&logo=go&color=00ADD8)
-![](https://img.shields.io/badge/-white?style=flat-square&logoColor=white&logo=&color=white)
+![](https://img.shields.io/badge/NuxtJS-white?style=flat-square&logoColor=white&logo=nuxtdotjs&color=white)<!-- 00b77e -->
+![](https://img.shields.io/badge/Angular-white?style=flat-square&logoColor=white&logo=angular&color=white)<!-- DD0031 -->
+![](https://img.shields.io/badge/WeChat-white?style=flat-square&logoColor=white&logo=wechat&color=white)<!-- 2d9b3a -->
+![](https://img.shields.io/badge/Go-white?style=flat-square&logoColor=white&logo=go&color=white)<!-- 00ADD8 -->
 
 ### 𝑴𝒖𝒍𝒕𝒊 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎
-![](https://img.shields.io/badge/HarmonyOS-white?style=flat-square&logoColor=white&logo=harmonyos&color=black)
-![](https://img.shields.io/badge/Flutter-white?style=flat-square&logoColor=white&logo=flutter&color=02569B)
-![](https://img.shields.io/badge/React%20Native-white?style=flat-square&logoColor=white&logo=react&color=028399)
-![](https://img.shields.io/badge/UniApp-white?style=flat-square&logoColor=white&logo=unpkg&color=2d9b3a)
-![](https://img.shields.io/badge/Taro-white?style=flat-square&logoColor=white&logo=typst&color=2d9b3a)
-![](https://img.shields.io/badge/Electron-white?style=flat-square&logoColor=white&logo=electron&color=black)
-![](https://img.shields.io/badge/Tauri-white?style=flat-square&logoColor=white&logo=tauri&color=black)
-![](https://img.shields.io/badge/sys%20shim-white?style=flat-square&logoColor=white&logo=opensourcehardware&color=black)
+![](https://img.shields.io/badge/HarmonyOS-white?style=flat-square&logoColor=white&logo=harmonyos&color=white)<!-- black -->
+![](https://img.shields.io/badge/Flutter-white?style=flat-square&logoColor=white&logo=flutter&color=white)<!-- 02569B -->
+![](https://img.shields.io/badge/React%20Native-white?style=flat-square&logoColor=white&logo=react&color=white)<!-- 028399 -->
+![](https://img.shields.io/badge/UniApp-white?style=flat-square&logoColor=white&logo=unpkg&color=white)<!-- 2d9b3a -->
+![](https://img.shields.io/badge/Taro-white?style=flat-square&logoColor=white&logo=typst&color=white)<!-- 2d9b3a -->
+![](https://img.shields.io/badge/Electron-white?style=flat-square&logoColor=white&logo=electron&color=white)<!-- black -->
+![](https://img.shields.io/badge/Tauri-white?style=flat-square&logoColor=white&logo=tauri&color=white)<!-- black -->
+![](https://img.shields.io/badge/sys%20shim-white?style=flat-square&logoColor=white&logo=opensourcehardware&color=white)<!-- black -->
 
 ### 𝑴𝒊𝒄𝒓𝒐 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅𝒔
-![](https://img.shields.io/badge/MicroApp-white?style=flat-square&logoColor=white&logo=monzo&color=8A2BE2)
-![](https://img.shields.io/badge/single%20spa-white?style=flat-square&logoColor=white&logo=sellfy&color=8A2BE2)
-![](https://img.shields.io/badge/qiankun-white?style=flat-square&logoColor=white&logo=quora&color=8A2BE2)
+![](https://img.shields.io/badge/MicroApp-white?style=flat-square&logoColor=white&logo=monzo&color=white)<!-- 8A2BE2 -->
+![](https://img.shields.io/badge/single%20spa-white?style=flat-square&logoColor=white&logo=sellfy&color=white)<!-- 8A2BE2 -->
+![](https://img.shields.io/badge/qiankun-white?style=flat-square&logoColor=white&logo=quora&color=white)<!-- 8A2BE2 -->
 
 ### 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒆
 ![](https://img.shields.io/badge/Apache%20ECharts-white?style=flat-square&logoColor=white&logo=apacheecharts&color=AA344D)
